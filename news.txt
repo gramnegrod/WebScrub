@@ -1,0 +1,24 @@
+'''news_narratives = {
+    "news": [
+        {
+            "title": "Interferencia Rusa en las Elecciones de EE.UU.",
+            "narrative": "Funcionarios de inteligencia de EE.UU. advierten que la guerra de Rusia en Ucrania no ha disminuido el deseo del Kremlin de interferir en las elecciones estadounidenses. El Director de la Agencia de Seguridad Nacional, Gen. Paul Nakasone, y el Director del FBI, Chris Wray, destacaron que, a pesar del conflicto en Ucrania, Rusia aún tiene capacidad para influir en las elecciones presidenciales de EE.UU. Este año es crucial para ellos, y se espera que Rusia intente impactar significativamente en el proceso electoral."
+        },
+        {
+            "title": "Conversaciones entre Blinken y Abbas sobre la Guerra Israel-Hamas",
+            "narrative": "El Secretario de Estado de EE.UU., Antony Blinken, sostuvo conversaciones con el Presidente de la Autoridad Palestina, Mahmoud Abbas, sobre la guerra entre Israel y Hamas. Blinken abordó los esfuerzos de ayuda humanitaria en Gaza y reafirmó el apoyo de EE.UU. a un estado palestino junto a Israel. Las conversaciones se producen en medio de un aumento significativo en el número de muertes y heridos debido a las operaciones de combate de Israel en Gaza."
+        },
+        {
+            "title": "Juicio por Fraude Civil contra Donald Trump",
+            "narrative": "Un juez retiró el permiso para que Donald Trump presentara su propio argumento de cierre en su juicio por fraude civil en Nueva York. A pesar de los planes iniciales de Trump de realizar una declaración personal, el juez insistió en que se ciñera a asuntos 'relevantes', lo que llevó a la decisión de revocar el permiso. Este juicio podría costarle a Trump cientos de millones de dólares en multas y afectar su capacidad para hacer negocios en Nueva York."
+        },
+        {
+            "title": "Cambio en las Reglas de Votación por Correo en Florida",
+            "narrative": "En Florida, se propone un cambio en las reglas de votación por correo que podría afectar significativamente a los votantes. El proyecto de ley SB 1752 busca imponer requisitos más estrictos para votar por correo, lo que podría dificultar este proceso para muchos ciudadanos. Ramon Perez, director ejecutivo del Proyecto Democracia Digital, destacó que este cambio sería un obstáculo, especialmente dado que los demócratas históricamente han beneficiado más de la votación por correo en comparación con los republicanos."
+        },
+        {
+            "title": "Oposición a Cambios en la Votación por Correo en Florida",
+            "narrative": "La presidenta del Senado de Florida, Kathleen Passidomo, se opone a una propuesta que reduciría la votación por correo. Este posicionamiento pone en duda el futuro del proyecto de ley SB 1752. Passidomo expresó su desacuerdo con la propuesta del senador Blaise Ingoglia, argumentando que muchos adultos mayores en su distrito prefieren votar por correo."
+        }
+    ]
+}'''
